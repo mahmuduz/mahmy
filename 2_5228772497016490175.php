@@ -2,7 +2,7 @@
 /**
  *Author: Tilon
  *
- *Telegram : @jorayev
+ *Telegram : @Tilon
  */
 $API_KEY = '1145658691:AAE2NXWHM4e7nL4fNeaCV4Gdbki1lW5akho';
 ##------------------------------##
